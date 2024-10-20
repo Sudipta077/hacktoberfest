@@ -1,3 +1,8 @@
+#### Name: [SUDIPTA PAUL](https://github.com/Sudipta077)
+- Place: kolkata, West Bengal, India
+- Bio: Software Development Engineer. Tech enthusiast.
+- GitHub: [Sudipta077](https://github.com/Sudipta077)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
